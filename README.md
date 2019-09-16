@@ -28,3 +28,10 @@ the source of the course is: [Unreal Engine Developer]( http://gdev.tv/urcgithub
 + Remember we’re not AAA studios
 + Let’s find the essence of fun of this game.
 
+### 3 Setting Up a GitHub “Repo” ###
+
++ Creating an online repository for your project
++ GitHub provides public hosting for free
++ We will use their default UnrealEngine **.gitignore**
++ We’ll then “clone” this repository to our machine
++ How to use a **readme.md** with markdown*
