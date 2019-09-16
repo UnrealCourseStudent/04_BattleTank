@@ -27,6 +27,7 @@ the source of the course is: [Unreal Engine Developer]( http://gdev.tv/urcgithub
 + Constantly asking “what’s least fun”
 + Remember we’re not AAA studios
 + Let’s find the essence of fun of this game.
++ This is my GDD for battle tanks: [My Game design document] (https://community.gamedev.tv/t/gdd-for-battle-tanks/113997?u=an0rchy)
 
 ### 3 Setting Up a GitHub “Repo” ###
 
