@@ -1,7 +1,13 @@
 // Fill out your copyright notice in the Description page of Project Settings.
 
+<<<<<<< HEAD
 #include "Tank.h"
 #include "BattleTank.h"
+=======
+
+#include "Tank.h"
+
+>>>>>>> fbfcf7a68091a5616f9c2f9513f62e453ab05d64
 
 // Sets default values
 ATank::ATank()

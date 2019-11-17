@@ -2,6 +2,11 @@
 
 #pragma once
 
+<<<<<<< HEAD
+=======
+
+#include "CoreMinimal.h"
+>>>>>>> fbfcf7a68091a5616f9c2f9513f62e453ab05d64
 #include "GameFramework/Pawn.h"
 #include "Tank.generated.h"
 
